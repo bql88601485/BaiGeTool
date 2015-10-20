@@ -1,6 +1,10 @@
 # BaiGeTool
 
 
+# nsnull+
+ 服务器返回nsnull 安全处理
+
+
 # UIControl+BaiGe
 
 iOS小技巧–用runtime 解决UIButton 重复点击问题
