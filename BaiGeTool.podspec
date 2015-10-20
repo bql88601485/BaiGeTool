@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                    DESC
 
-  s.homepage     = "https://github.com/bql88601485/BaiGeTool/"
+  s.homepage     = "https://github.com/bql88601485/BaiGeTool"
 
   s.license      = "MIT (example)"
 
@@ -21,5 +21,4 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = "6.0"
   s.osx.deployment_target = "10.11"
 
-  s.framework = "XCTest"
 end
